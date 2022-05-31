@@ -1,4 +1,4 @@
-# Korean FastSpeech 2 - Pytorch Implementation
+# Korean FastSpeech 2 - Pytorch Implementation, KSS Datasets
 
 ![](./assets/model.png)
 # Introduction
